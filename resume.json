@@ -29,50 +29,45 @@
         "institution": "University of Agronomical Science and Veterinary Medicine",
         "studyType": "Bachelors",
         "area": "Veterinary Medicine",
-        "startDate": "2015-01-10",
-        "endDate": "2021-01-07"
+        "startDate": "2015-10-01",
+        "endDate": "2021-07-01"
       },
       {
         "institution": "Saint Sava National College",
         "studyType": "Highschool Diploma",
         "area": "Mathematics and Informatics",
-        "startDate": "2011-15-09",
-        "endDate": "2015-10-07"
+        "startDate": "2011-09-15",
+        "endDate": "2015-07-10"
       },
       {
         "institution": "RoVECCS",
         "studyType": "Webinar regarding aspiration pneumonia",
         "area": "Veterinary Medicine",
-        "startDate": "2021",
-        "endDate": "2021"
+        "startDate": "2021"
       },
       {
         "institution": "RECOVER",
         "studyType": "Course on CPR: Advanced Life Support",
         "area": "Veterinary Medicine",
-        "startDate": "2020",
-        "endDate": "2020"
+        "startDate": "2020"
       },
       {
         "institution": "RECOVER",
         "studyType": "Course on CPR: Basic Life Support",
         "area": "Veterinary Medicine",
-        "startDate": "2020",
-        "endDate": "2020"
+        "startDate": "2020"
       },
       {
         "institution": "ORACLE Academy",
         "studyType": "Course on Database Programming",
         "area": "IT",
-        "startDate": "2015",
-        "endDate": "2015"
+        "startDate": "2015"
       },
       {
         "institution": "University of Automatic Control and Computer Science",
         "studyType": "IoT4Girls Project",
         "area": "IT",
-        "startDate": "2015",
-        "endDate": "2015"
+        "startDate": "2015"
       }
     ],
     "publications": [
@@ -111,6 +106,10 @@
       {
         "language": "English",
         "fluency": "B2"
+      }, 
+      {
+        "language": "Korean",
+        "fluency": "Conversational Level"
       }
     ],
     "skills": [
